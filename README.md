@@ -43,7 +43,7 @@
     - Terraform, DataDog
 
 ```
-#Machine Learning
+#MLOps
 ```
 
 ### 運用型広告用タスク管理システム(Mar 2020 - Apr 2020)

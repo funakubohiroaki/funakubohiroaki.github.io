@@ -1,7 +1,20 @@
 theme: jekyll-theme-minimal
-title: 職務経歴書 - Resume
-email: hiroaki.funakubo@gmail.com
+title: 職務経歴書 - My Resume
+avatar: "/assets/img/funa.jpg"
 url: "https://funakubohiroaki.github.io/"
-github_username: funakubohiroaki
+
+social-network-links:
+  email: "hiroaki.funakubo@gmail.com"
+  github: funakubohiroaki
+  facebook: hiroaki.funakubo
+  twitter: funa0220
+  rss: true
+#  linkedin: daattali
+#  instagram: deanat78
+
+share-links-active:
+  facebook: true
+  twitter: true
+#  linkedin: true
 
 

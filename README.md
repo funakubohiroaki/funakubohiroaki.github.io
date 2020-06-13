@@ -15,6 +15,7 @@
 - Container(Docker, Docker Compose, Kubernetes, ECS, EKS)
 - DB(Sybase, MySQL, PostgreSQL, Redis, Memcache)
 - Programming(Perl, PHP, Go, Python, jQuery, AngularJS, Vue.js, Swift)
+- Management(Management 3.0, Agile, Scrum, MobProgramming, かんばん, 1on1)
 
 ## Company
 - 株式会社フジシステムズ(Apr 2003 - Jan 2013)

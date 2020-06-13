@@ -7,7 +7,7 @@
 - 1981-02-20
 - Github: funakubohiroaki
 - E-mail: hiroaki.funakubo@gmail.com
-- Porfolio: https://funakubohiroaki.github.io
+- Porfolio: [https://funakubohiroaki.github.io](https://funakubohiroaki.github.io)
 
 ## Skills
 - Unix, Linux
@@ -18,9 +18,9 @@
 - Management(Management 3.0, Agile, Scrum, MobProgramming, かんばん, 1on1)
 
 ## Company
-- 株式会社フジシステムズ(Apr 2003 - Jan 2013)
-- 株式会社シーエー・アドバンス(Feb 2013 - Feb 2015)
-- 株式会社サイバーエージェント(Mar 2015 - )
+- [FUJI SYSYTEMS, INC.](https://www.fujisystems.co.jp/)(Apr 2003 - Jan 2013)
+- [CA ADvance, Inc.](https://www.ca-adv.co.jp/)(Feb 2013 - Feb 2015)
+- [CyberAgent, Inc.](https://www.cyberagent.co.jp/)(Mar 2015 - )
 
 ## Experience
 ### 運用型広告用広告テキスト予測・生成システム(May 2020 - Present)

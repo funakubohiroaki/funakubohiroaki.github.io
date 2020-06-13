@@ -62,13 +62,17 @@
   - Other
     - TerraForm, updown, DataDog
 
-```#MobProgramming #RemoteWork #フルスタック```
+```
+#MobProgramming #RemoteWork #フルスタック
+```
 
 ### CA DataFeed Manager(Jan 2016 - Aug 2017)
 - Position
   - Engineering Manager
 
-```#Management #Agile #Scrum```
+```
+#Management #Agile #Scrum
+```
 
 ### 検索連動型広告向け統合型運用プラットフォーム(Feb 2013 - Aug 2017)
 - Position
@@ -89,7 +93,9 @@
   - CI/CD
     - CircleCi, ChatOps(Slack & Hubot)
 
-```#モダン化 #リプレース```
+```
+#モダン化 #リプレース
+```
 
 ### エンタープライズ系インフラ設計・構築・運用(Apr 2005 - Jan 2013)
 - Position
@@ -106,7 +112,9 @@
   - Lang
     - C, Perl, PHP, sh, SQL
 
-```#DB #バッチ管理 #リプレース```
+```
+#DB #バッチ管理 #リプレース
+```
 
 ### エンタープライズ系Webアプリ開発(Apr 2003 - Mar 2005)
 - Position
@@ -121,7 +129,9 @@
   - Lang
     - C, Perl, PHP, sh, SQL
 
-```#課金```
+```
+#課金
+```
 
 ## Education
 - 静岡大学工学部システム工学科(Apr 1999 - Mar 2003)

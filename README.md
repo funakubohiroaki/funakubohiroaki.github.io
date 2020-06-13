@@ -11,10 +11,10 @@
 
 ## Skills
 - Unix, Linux
-- AWS
+- AWS, GCP
 - Container(Docker, Docker Compose, Kubernetes, ECS, EKS)
 - DB(Sybase, MySQL, PostgreSQL, Redis, Memcache)
-- Programming(Perl, PHP, Go, jQuery, AngularJS, Vue.js, Swift)
+- Programming(Perl, PHP, Go, Python, jQuery, AngularJS, Vue.js, Swift)
 
 ## Company
 - 株式会社フジシステムズ(Apr 2003 - Jan 2013)

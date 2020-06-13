@@ -22,7 +22,31 @@
 - 株式会社サイバーエージェント(Mar 2015 - )
 
 ## Experience
-### 運用型広告用タスク管理システム(Mar 2020 - Present)
+### 運用型広告用広告テキスト予測・生成システム(May 2020 - Present)
+- Position
+  - Application Engineer(Frontend & Backend)
+  - ML Engineer
+- Technology
+  - OS
+    - Linux
+  - VM
+    - Docker, ECS, Docker Compose
+  - MLOps
+    - Cloud Dataflow, BigQuery
+  - DB
+    - Cloud SQL
+  - Lang
+    - Python, Flask, FastAPI, Vue.js, Vuex
+  - CI/CD
+    - CircleCi
+  - Other
+    - Terraform, DataDog
+
+```
+#Machine Learning
+```
+
+### 運用型広告用タスク管理システム(Mar 2020 - Apr 2020)
 - Position
   - Application Engineer(Frontend)
 - Technology
@@ -56,7 +80,7 @@
   - DB
     - RDS, ElastiCache
   - Lang
-    - Go, CleanArchitecture, Vue.js, Vuex, Swift
+    - Go, Echo, CleanArchitecture, Vue.js, Vuex, Swift
   - CI/CD
     - CircleCi, ChatOps(Slack & Hubot) & DigDag
   - Other

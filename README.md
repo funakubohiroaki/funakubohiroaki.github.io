@@ -3,11 +3,6 @@
 インフラエンジニア寄りのプレイイングマネージャです。
 キャリアを広げるべく、ML界隈に足を踏み入れようと絶賛勉強中です。
 
-以下のキーワード関連の副業募集
-- Remote Work
-- Machine Learning
-- Infrastructure - AWS
-
 ## Profile
 - 1981-02-20
 - Github: funakubohiroaki

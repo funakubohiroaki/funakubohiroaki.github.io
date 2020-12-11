@@ -23,7 +23,7 @@
 - [CyberAgent, Inc.](https://www.cyberagent.co.jp/)(Mar 2015 - )
 
 ## Experience
-### 運用型広告用広告テキスト予測・生成システム(May 2020 - Present)
+### 運用型広告用広告テキスト効果予測・生成システム(May 2020 - Present)
 - Position
   - Application Engineer(Frontend & Backend)
   - ML Engineer
@@ -33,11 +33,11 @@
   - VM
     - Docker, ECS, Docker Compose
   - MLOps
-    - Cloud Dataflow, BigQuery
+    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS
   - DB
     - Cloud SQL
   - Lang
-    - Python, Flask, FastAPI, Vue.js, Vuex
+    - Python, PyTorch, OpenNMT, Flask, FastAPI, Vue.js, Vuex
   - CI/CD
     - CircleCi
   - Other

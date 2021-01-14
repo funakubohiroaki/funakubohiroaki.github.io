@@ -16,6 +16,7 @@
 - DB(Sybase, MySQL, PostgreSQL, Redis, Memcache)
 - Programming(Perl, PHP, Go, Python, jQuery, AngularJS, Vue.js, Swift)
 - Management(Management 3.0, Agile, Scrum, MobProgramming, かんばん, 1on1)
+- Machine Learning(PyTorch, OpenNNT)
 
 ## Company
 - [FUJI SYSYTEMS, INC.](https://www.fujisystems.co.jp/)(Apr 2003 - Jan 2013)
@@ -33,7 +34,7 @@
   - VM
     - Docker, ECS, Docker Compose
   - MLOps
-    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS
+    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS, Jenkins
   - DB
     - Cloud SQL
   - Lang

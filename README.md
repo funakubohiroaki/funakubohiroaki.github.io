@@ -34,7 +34,7 @@
   - VM
     - Docker, ECS, Docker Compose
   - MLOps
-    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS, Jenkins
+    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS, Jenkins, CloudNAT
   - DB
     - Cloud SQL
   - Lang

@@ -34,15 +34,15 @@
   - VM
     - Docker, ECS, Docker Compose
   - MLOps
-    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS, Jenkins, CloudNAT
+    - Cloud Dataflow, BigQuery, CloudRun, GCE, GCS, Jenkins, CloudNAT, Digdag
   - DB
     - Cloud SQL
   - Lang
     - Python, PyTorch, OpenNMT, Flask, FastAPI, Vue.js, Vuex
   - CI/CD
-    - CircleCi
+    - CircleCi, GitHub Actions
   - Other
-    - Terraform, DataDog
+    - Terraform, DataDog, Label Studio
 
 ```
 #MLOps

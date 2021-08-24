@@ -163,6 +163,7 @@
 - 静岡大学工学部システム工学科(Apr 1999 - Mar 2003)
 
 ## Certifications
+- Google Professional Data Engineer(Aug 2021)
 - TOEIC L&R 620(May 2019)
 - Management 3.0(Jul 2018)
 - 基本情報処理(Apr 2007)

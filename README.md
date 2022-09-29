@@ -39,6 +39,8 @@
     - Cloud SQL
   - Lang
     - Python, PyTorch, OpenNMT, Flask, FastAPI, Vue.js, Vuex
+  - Models
+    - GPT-2
   - CI/CD
     - CircleCi, GitHub Actions
   - Other
@@ -164,6 +166,7 @@
 
 ## Certifications
 - Google Professional Data Engineer(Aug 2021)
+- Google Professional Cloud Architect(Sep 2022)
 - TOEIC L&R 620(May 2019)
 - Management 3.0(Jul 2018)
 - 基本情報処理(Apr 2007)

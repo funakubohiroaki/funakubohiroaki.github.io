@@ -24,6 +24,15 @@
 - [CyberAgent, Inc.](https://www.cyberagent.co.jp/)(Mar 2015 - )
 
 ## Experience
+### 運用型広告用広告審査システム(Sep 2023 - Present)
+- Position
+  - ML Engineer
+- Technology
+
+```
+#タスク設計
+```
+
 ### 運用型広告用広告テキスト効果予測・生成システム(May 2020 - Present)
 - Position
   - Application Engineer(Frontend & Backend)
